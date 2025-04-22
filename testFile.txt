@@ -1,1 +1,2 @@
 This is the test file in Git.
+This line is from VS code.
